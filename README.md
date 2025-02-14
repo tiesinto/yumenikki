@@ -9,7 +9,7 @@
 ### To simply run the game, download <b><ins>[THIS](https://github.com/tiesinto/yumenikki/releases/download/custom_made/yumenikki_for_dummies.zip)</ins></b> and run START.exe
 ### [Instruktionen auf Deutsch](./.github/README_de.md)
 
-<b>_Yume Nikki_</b> (ゆめにっき) is a 2004 "walking simulator" made in RPG Maker 2003, and created by Kikiyama. You play as a <i><a href="https://en.wikipedia.org/wiki/Hikikomori">hikikomori</a></i> or reclusive girl named Madotsuki as you explore her dreams and collect effects acquired by various entities and objects throughout the environment. Development for the game ended in 2007, and in 2012 ownership was handed over to Playism. 
+<b>_Yume Nikki_</b> (ゆめにっき) is a 2004 "walking simulator" made in RPG Maker 2003, and created by [Kikiyama](https://www3.nns.ne.jp/~tk-mto/). You play as a <i><a href="https://en.wikipedia.org/wiki/Hikikomori">hikikomori</a></i> or reclusive girl named Madotsuki as you explore her dreams and collect effects acquired by various entities and objects throughout the environment. Development for the game ended in 2007, and in 2012 ownership was handed over to Playism. 
 
 ## Table of Contents
 
