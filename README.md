@@ -45,13 +45,13 @@ https://xupefei.github.io/Locale-Emulator/
 The standard experience for most people is either the Steam version or the Uboachan translation played with EasyRPG. The English versions translated by Uboachan, Playism, and Steam are all essentially 0.10a[^1][^2] but translated slightly differently. The Uboachan translation is often considered the most accurate, while the Steam and Playism versions take some liberties with the text.
 
 ## Controls
-- Arrow keys/HJKL/Numpad arrow keys - Move
-- Z/Y/Enter/Space - Select/Action
+- Arrow keys/hjkl/Numpad arrow keys - Move
+- Z/Enter/Space - Select/Action
 - X/0 - Back/Menu
 - 1 - Primary effect action
 - 3 - Secondary effect action
-- 5 Drop effect in nexus
-- 9 Wake up
+- 5 - Drop effect in nexus
+- 9 - Wake up
 
 ## Online Versions
 - Yumebooru: <s>https://yumenikki.online/nikki/</s> [Discontinued; now see <a href="https://archive.yumeboo.ru/play/">https://archive.yumeboo.ru/play/</a>]
