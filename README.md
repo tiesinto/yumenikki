@@ -9,7 +9,7 @@
 ### To simply run the game, download <b><ins>[THIS](https://github.com/tiesinto/yumenikki/releases/download/custom_made/yumenikki_for_dummies.zip)</ins></b> and run START.exe
 ### [Instruktionen auf Deutsch](./.github/README_de.md)
 
-<b>Yume Nikki</b> (ゆめにっき) is a 2004 "walking simulator" made in RPG Maker 2003, and created by Kikiyama. You play as a <i><a href="https://en.wikipedia.org/wiki/Hikikomori">hikikomori</a></i> or reclusive girl named Madotsuki as you explore her dreams and collect effects acquired by various entities and objects throughout the environment. Development for the game ended in 2007, and in 2012 ownership was handed over to Playism. 
+<b>_Yume Nikki_</b> (ゆめにっき) is a 2004 "walking simulator" made in RPG Maker 2003, and created by Kikiyama. You play as a <i><a href="https://en.wikipedia.org/wiki/Hikikomori">hikikomori</a></i> or reclusive girl named Madotsuki as you explore her dreams and collect effects acquired by various entities and objects throughout the environment. Development for the game ended in 2007, and in 2012 ownership was handed over to Playism. 
 
 ## Table of Contents
 
@@ -37,10 +37,10 @@ Japanese RTP: https://tkool.jp/products/rtp.html (<a href="https://tkool.jp/prod
 - Additional RM2k fonts may be needed for text to render properly on Japanese versions. I'm not exactly sure where you could download these before but there is an archive currently stored here:
 https://assets.ymbr.site/misc/mubyni.zip
 
-- Additionally, system locale (and date and time, but less often) may need to be changed to Japanese to get Japanese and English-translated versions of Yume Nikki to render text and load properly. The Japanese language should be downloaded through settings to avoid complications and problems being afflicted to your computer. If you would like to avoid changing system locale, Locale Emulator is often used:
+- Additionally, system locale (and date and time, but less often) may need to be changed to Japanese to get Japanese and English-translated versions of _Yume Nikki_ to render text and load properly. The Japanese language should be downloaded through settings to avoid complications and problems being afflicted to your computer. If you would like to avoid changing system locale, Locale Emulator is often used:
 https://xupefei.github.io/Locale-Emulator/
 
-N.B: Although these steps were outlined with the intent of being applied to Yume Nikki, you really need to do this for every RPG Maker 2000 and 2003 game.
+<b>N.B: Although these steps were outlined with the intent of being applied to _Yume Nikki_, you really need to do this for every RPG Maker 2000 and 2003 game.</b>
 
 The standard experience for most people is either the Steam version or the Uboachan translation played with EasyRPG. The English versions translated by Uboachan, Playism, and Steam are all essentially 0.10a[^1][^2] but translated slightly differently. The Uboachan translation is often considered the most accurate, while the Steam and Playism versions take some liberties with the text.
 
