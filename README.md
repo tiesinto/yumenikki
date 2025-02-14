@@ -1,6 +1,6 @@
 # IN PROGRESS
 
-<img style="display:block; margin:auto; width:75%; border:1px solid skyblue;" src="https://raw.githubusercontent.com/tiesinto/yumenikki/refs/heads/main/yume.png" alt="Yume Nikki" align="center">
+<img style="display:block; margin:auto; width:75%; border:1px solid skyblue;" src="https://raw.githubusercontent.com/tiesinto/yumenikki/refs/heads/main/yume.png" alt="Yume Nikki">
 
 ### To simply run the game, download this and run START.exe
 ### Instruktionen auf Deutsch
