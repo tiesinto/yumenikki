@@ -1,5 +1,5 @@
 <p align="center">
-  <h><b>IN PROGRESS</b></h>
+  <h><i><b>IN PROGRESS</b></i></h>
 </p>
 
 <p align="center">
