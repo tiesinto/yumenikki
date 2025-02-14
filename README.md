@@ -1,6 +1,8 @@
 # IN PROGRESS
 
-<img style="display:block; margin:auto; width:75%; border:1px solid skyblue;" src="https://raw.githubusercontent.com/tiesinto/yumenikki/refs/heads/main/yume.png" alt="Yume Nikki">
+<p align="center">
+  <img style="display:block; margin:auto; width:75%; border:1px solid skyblue;" src="https://raw.githubusercontent.com/tiesinto/yumenikki/refs/heads/main/yume.png" alt="Yume Nikki">
+</p>
 
 ### To simply run the game, download <b><ins>[THIS](https://github.com/tiesinto/yumenikki/releases/download/custom_made/yumenikki_for_dummies.zip)</ins></b> and run START.exe
 ### [Instruktionen auf Deutsch](./.github/README_de.md)
