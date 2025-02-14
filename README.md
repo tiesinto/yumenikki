@@ -1,3 +1,9 @@
+<h1 align="center">
+	Yume Nikki
+</h1>
+
+[yume.png](./yume.png)
+
 <b>Yume Nikki</b> (ゆめにっき) is a 2004 "walking simulator" made in RPG Maker 2003, and created by Kikiyama. You play as a <i><a href="https://en.wikipedia.org/wiki/Hikikomori">hikikomori</a></i> or reclusive girl named Madotsuki as you explore her dreams and collect effects acquired by various entities and objects throughout the environment. Development for the game ended in 2007, and in 2012 ownership was handed over to Playism. 
 
 <img style="display:block; margin:auto; width:75%; border:1px solid skyblue;" src="https://assets.ymbr.site/copyright/yume_nikki.png" alt="Yume Nikki 0.10a: Uboachan trans.">
