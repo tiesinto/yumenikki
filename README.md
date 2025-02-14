@@ -10,25 +10,10 @@
 ## Table of Contents
 
 - [Download Links](#download-links)
-  - [Uboachan](https://uboachan.net/yumenikki_portable.zip)
-  - [Steam](https://assets.ymbr.site/misc/yume_nikki_0.10a_steam.7z)
-  - [Original](http://www.vector.co.jp/soft/win95/game/se332192.html)
-  - [yumesyuusei](https://assets.ymbr.site/misc/yumesyuusei.lzh)
-  - [Playism](https://archive.org/details/yume-nikki-010a)
-  - [Historic Versions](https://gatobot.neocities.org/lainvestigacionyn/links.html)
 - [Running](#running)
-  - [Easyrpg](https://easyrpg.org/player/downloads/)
-  - RTP
-   	- [JP](https://tkool.jp/products/rtp/2003rtp.zip)
-    - [ENG](https://dl.komodo.jp/rpgmakerweb/run-time-packages/rpg2003_rtp_installer.zip)
-  - [Fonts](https://assets.ymbr.site/misc/mubyni.zip)
 - [Controls](#controls)
 - [Online Versions](#online-versions)
-  - [Yumebooru](https://archive.yumeboo.ru/play/)
-  - [YNO](https://ynoproject.net/yume/)
 - [Additional Resources](#additional-resources)
-	- [16:9 Mod](https://poyouli.itch.io/yumenikki169)
-	- [RTP Collection](https://archive.org/details/RPG_Maker_RTP_Collection)
 
 ## Download Links
 - Uboachan Translation[^1] (0.10, with yumesyuusei patch): https://uboachan.net/yumenikki_portable.zip
