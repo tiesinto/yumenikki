@@ -1,3 +1,5 @@
+# IN PROGRESS
+
 ![yume.png](https://raw.githubusercontent.com/tiesinto/yumenikki/refs/heads/main/yume.png)
 
 ### To simply run the game, download this and run START.exe
