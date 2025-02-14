@@ -1,4 +1,6 @@
-# IN PROGRESS
+<p align="center">
+  <h><b>IN PROGRESS</b></h>
+</p>
 
 <p align="center">
   <img style="display:block; margin:auto; width:75%; border:1px solid skyblue;" src="https://raw.githubusercontent.com/tiesinto/yumenikki/refs/heads/main/yume.png" alt="Yume Nikki">
